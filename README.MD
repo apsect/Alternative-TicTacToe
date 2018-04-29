@@ -7,17 +7,17 @@ You can play this game with your friend or computer. Here is option "Start new g
 ## Screenshots
 
 <p align="center">
-  <img src="./Screenshots/picture0.png" alt="Sorry, picture0 was lost somewhere far away"
+  <img src="./Screenshots/picture0.PNG" alt="Sorry, picture0 was lost somewhere far away"
        width="650" height="335">
 </p>
 
 <p align="center">
-  <img src="./Screenshots/picture1.png" alt="Sorry, picture1 was lost somewhere far away"
+  <img src="./Screenshots/picture1.PNG" alt="Sorry, picture1 was lost somewhere far away"
        width="650" height="335">
 </p>
 
 <p align="center">
-  <img src="./Screenshots/picture2.png" alt="Sorry, picture2 was lost somewhere far away"
+  <img src="./Screenshots/picture2.PNG" alt="Sorry, picture2 was lost somewhere far away"
        width="650" height="335">
 </p>
 
